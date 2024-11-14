@@ -39,7 +39,7 @@ In this notebook, we perform Exploratory Data Analysis (EDA) to better understan
 - Visualization of the clusters to understand customer characteristics
 
 You can access the EDA and clustering notebook here:  
-[EDA and K-Means Clustering Notebook](<[Insert link to file](https://github.com/dangwthao/Telecom-Customers-Churn-Prediction/blob/main/Telco%20customer%20churn%20-%20EDA%20%26%20Clustering.ipynb)>)
+[EDA and K-Means Clustering Notebook](https://github.com/dangwthao/Telecom-Customers-Churn-Prediction/blob/main/Telco%20customer%20churn%20-%20EDA%20%26%20Clustering.ipynb)
 
 ---
 
@@ -54,7 +54,7 @@ In this notebook, we implement machine learning algorithms to predict customer c
 - **Model Evaluation and Prediction**: Evaluation of the models using appropriate metrics, and final model selection for predicting customer churn
 
 You can access the machine learning notebook here:  
-[Machine Learning Algorithms Notebook](https://github.com/dangwthao/Telecom-Customers-Churn-Prediction/blob/main/Fitting_model.ipynb)](https://github.com/dangwthao/Telecom-Customers-Churn-Prediction/blob/main/Fitting_model.ipynb)
+[Machine Learning Algorithms Notebook](https://github.com/dangwthao/Telecom-Customers-Churn-Prediction/blob/main/Fitting_model.ipynb)
 
 ### Algorithms Implemented:
 - **Logistic Regression**
